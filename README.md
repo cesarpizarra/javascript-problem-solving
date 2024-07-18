@@ -23,6 +23,11 @@ Here is a list of some of the problems solved in this repository:
 - [Capitalization of each letter in a string](./problems/capitalize-letters.js)
 - [Count the occurrences of each letter in an array](./problems/count-occurrences.js)
 - [Remove duplicate elements from an array](./problems/remove-duplicates.js)
+- [Check if palindrome](./problems/palindrome.js)
+- [Reverse the sentence](./problems/reverseWord.js)
+- [Largest Number in an Array](./problems/largestNumber.js)
+- [Largest Number in an Array](./problems/largestNumber.js)
+- [Count Vowels](./problems/countVowels.js)
 
 Each problem file contains a detailed problem statement, the implemented solution, and example test cases.
 
