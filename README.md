@@ -28,6 +28,10 @@ Here is a list of some of the problems solved in this repository:
 - [Largest Number in an Array](./problems/largestNumber.js)
 - [Largest Number in an Array](./problems/largestNumber.js)
 - [Count Vowels](./problems/countVowels.js)
+- [Categorize Words by Length Parity](./problems/parity.js)
+- [ Find the Longest Word](./problems/longest.js)
+- [Count Occurrences of a Character](./problems/occurrences.js)
+- [Sum of Digits](./problems/sumofdigits.js)
 
 Each problem file contains a detailed problem statement, the implemented solution, and example test cases.
 
