@@ -11,7 +11,7 @@ console.log(countVowels(str2)); // Output: 3
 */
 
 function countVowels(str) {
-  let vowels = "aeiou";
+  let vowels = 'aeiou';
   let result = 0;
 
   for (let i = 0; i < str.length; i++) {
@@ -22,8 +22,8 @@ function countVowels(str) {
   return result;
 }
 
-let str1 = "Hello";
-let str2 = "Javascript";
+let str1 = 'Hello';
+let str2 = 'Javascript';
 
 console.log(countVowels(str1));
 console.log(countVowels(str2));

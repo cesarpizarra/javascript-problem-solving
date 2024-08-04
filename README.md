@@ -33,6 +33,14 @@ Here is a list of some of the problems solved in this repository:
 - [Count Occurrences of a Character](./problems/occurrences.js)
 - [Sum of Digits](./problems/sumofdigits.js)
 
+## Sorting
+
+Here is a list of some of the sorting solved in this repository:
+
+- [Bubble Sort](./sorting/bubbleSort.js)
+- [Insertion Sort](./sorting/insertionSort.js)
+- [Selection Sort](./sorting/selectionSort.js)
+
 Each problem file contains a detailed problem statement, the implemented solution, and example test cases.
 
 ## How to Use
