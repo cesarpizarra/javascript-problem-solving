@@ -33,6 +33,15 @@ Here is a list of some of the problems solved in this repository:
 - [Count Occurrences of a Character](./problems/occurrences.js)
 - [Sum of Digits](./problems/sumofdigits.js)
 
+## Loop Patterns
+
+Here is a list of some of the loop patterns solved in this repository::
+
+- [Diamond Shape Pattern](./loops/diamond.js)
+- [Floyd's Triangle](./loops/floydsTriangle.js)
+- [Hollow Square](./loops/hollowSquare.js)
+- [Triangle Pattern](./loops/triangle.js)
+
 ## Sorting
 
 Here is a list of some of the sorting solved in this repository:
