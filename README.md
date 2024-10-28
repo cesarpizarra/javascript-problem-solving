@@ -1,6 +1,6 @@
 # JavaScript Problem-Solving Solutions
 
-This repository contains solutions to various JavaScript problems. Each function is designed to solve a specific problem using different programming concepts and techniques. The solutions cover a range of topics, including string manipulation, array operations, and more.
+This repository contains solutions to various JavaScript problems.The solutions cover a range of topics, including string manipulation, array operations, and more.
 
 ## Introduction
 
@@ -13,8 +13,7 @@ In this repository, I employ the following approach to solve JavaScript problems
 1. **Understanding the Problem**: Carefully reading and understanding the problem statement.
 2. **Planning the Solution**: Breaking down the problem into smaller parts and planning the solution step-by-step.
 3. **Writing the Code**: Implementing the solution in JavaScript.
-4. **Testing the Solution**: Testing the code with different test cases to ensure its correctness.
-5. **Optimization**: Optimizing the solution for better performance and readability.
+4. **Optimization**: Optimizing the solution for better performance and readability.
 
 ## List of Problems
 
@@ -50,7 +49,7 @@ Here is a list of some of the sorting solved in this repository:
 - [Insertion Sort](./sorting/insertionSort.js)
 - [Selection Sort](./sorting/selectionSort.js)
 
-Each problem file contains a detailed problem statement, the implemented solution, and example test cases.
+Each problem file contains a detailed problem statement and implemented solution.
 
 ## How to Use
 
